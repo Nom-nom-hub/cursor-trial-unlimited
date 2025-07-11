@@ -1,8 +1,8 @@
 # 🚀 Cursor Trial Reset Tool
 
-[![GitHub release](https://img.shields.io/github/release/TrialLord/Cursor-reset-tool.svg)](https://github.com/TrialLord/Cursor-reset-tool/releases)
-[![GitHub stars](https://img.shields.io/github/stars/TrialLord/Cursor-reset-tool.svg)](https://github.com/TrialLord/Cursor-reset-tool/stargazers)
-[![GitHub license](https://img.shields.io/github/license/TrialLord/Cursor-reset-tool.svg)](https://github.com/TrialLord/Cursor-reset-tool/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/Nom-nom-hub/cursor-trial-unlimited.svg)](https://github.com/Nom-nom-hub/cursor-trial-unlimited/releases)
+[![GitHub stars](https://img.shields.io/github/stars/Nom-nom-hub/cursor-trial-unlimited.svg)](https://github.com/Nom-nom-hub/cursor-trial-unlimited/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Nom-nom-hub/cursor-trial-unlimited.svg)](https://github.com/Nom-nom-hub/cursor-trial-unlimited/blob/master/LICENSE)
 
 The most reliable and safe tool for resetting your Cursor trial period. This tool is designed to work seamlessly on both Windows and macOS systems.
 
@@ -164,9 +164,9 @@ If you find this tool helpful, please consider:
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/TrialLord/Cursor-reset-tool)
-- [Latest Release](https://github.com/TrialLord/Cursor-reset-tool/releases)
-- [Issue Tracker](https://github.com/TrialLord/Cursor-reset-tool/issues)
+- [GitHub Repository](https://github.com/Nom-nom-hub/cursor-trial-unlimited)
+- [Latest Release](https://github.com/Nom-nom-hub/cursor-trial-unlimited/releases)
+- [Issue Tracker](https://github.com/Nom-nom-hub/cursor-trial-unlimited/issues)
 
 ## 🙏 Acknowledgments
 
